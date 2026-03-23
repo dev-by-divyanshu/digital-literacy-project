@@ -1,8 +1,8 @@
 # 📘 Digital Literacy Project 
 
-**👨‍🎓 Name:** Divyanshu Kumar
-**🎓 Branch:** B.Tech CSE
-**📅 Year:** First Year
+**👨‍🎓 Name:** Divyanshu Kumar  
+**🎓 Branch:** B.Tech CSE  
+**📅 Year:** First Year  
 **🏫 University:** VIT Bhopal University
 
 ---
