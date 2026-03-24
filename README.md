@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 
-This repository contains my Digital Literacy Project submitted for the CSE0001 course at VIT Bhopal University. The project focuses on developing essential digital skills required in today’s technology-driven world, including digital awareness, professional online presence, responsible communication, collaboration tools, and cyber safety.
+This repository contains my Digital Literacy Project submitted for the course at VIT Bhopal University. The project focuses on developing essential digital skills required in today’s technology-driven world, including digital awareness, professional online presence, responsible communication, collaboration tools, and cyber safety.
 
 Through five structured tasks, this project demonstrates the effective and ethical use of digital technologies for academic and professional growth.
 
